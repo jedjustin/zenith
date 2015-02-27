@@ -1,0 +1,336 @@
+
+@font-face {
+    font-family: 'widgeticons';
+    src: url('fonts/widgeticons-regular.eot');
+    src: url('fonts/widgeticons-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/widgeticons-regular.woff') format('woff'),
+         url('fonts/widgeticons-regular.ttf') format('truetype'),
+         url('fonts/widgeticons-regular.svg#widgeticonsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/**
+ * Hide all sidebar sections by default, only show them (via JS) once the
+ * preview loads and we know whether the sidebars are used in the template.
+ */
+.control-section[id^="accordion-section-sidebar-widgets-"] {
+	display:none;
+}
+
+.customize-control-sidebar_widgets label {
+	display: none;
+}
+.customize-control-sidebar_widgets .hide-if-js {
+	display: none; /* the link in here will fail if it ever gets used */
+}
+
+.customize-control-widget_form .widget-top {
+	-webkit-transition: opacity 0.5s;
+	-moz-transition:    opacity 0.5s;
+	-ms-transition:     opacity 0.5s;
+	-o-transition:      opacity 0.5s;
+	transition:         opacity 0.5s;
+}
+.customize-control-widget_form:not(.widget-rendered) .widget-top {
+	opacity: 0.5;
+}
+
+.customize-control-widget_form.previewer-loading .spinner {
+	display: inline;
+}
+
+.customize-control-widget_form.widget-form-loading .widget-content {
+	opacity: 0.7;
+	pointer-events: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.customize-control-widget_form .widget {
+	margin-bottom: 0;
+	margin-left: -10px;
+	margin-right: -10px;
+
+	/**
+	 * Prevent plugins (e.g. Widget Visibility in Jetpack) from forcing widget forms
+	 * to be wide and so overflow the customizer panel
+	 */
+	left: auto !important;
+	max-width: 100%;
+}
+
+.customize-control-widget_form .widget-inside {
+	border-top: none;
+	padding: 1px 15px 15px 15px;
+	line-height: 16px;
+}
+
+.customize-control-widget_form .widget .widget-top {
+	cursor: default;
+}
+
+.customize-control-widget_form .widget .widget-top {
+	cursor: move;
+}
+
+.customize-control-widget_form .widget .widget-top a {
+	cursor: pointer;
+}
+
+.customize-control-widget_form .widget .widget-inside {
+	padding: 1px 10px 10px 10px;
+}
+
+.customize-control-widget_form .widget .customize-control-title {
+	cursor: move;
+}
+
+.control-section.accordion-section.widget-customizer-highlighted > .accordion-section-title,
+.customize-control-widget_form.widget-customizer-highlighted {
+	border-radius: 2 px;
+	outline: none;
+	box-shadow: 0 0 3px #CE0000;
+}
+
+#widget-customizer-control-templates {
+	display: none;
+}
+
+/* MP6-compat */
+#customize-theme-controls .accordion-section-content .widget {
+	color: black;
+}
+
+
+
+/**
+ * Styles for new widget addition panel
+ */
+
+.wp-full-overlay-main {
+	right: auto; /* this overrides a right: 0; which causes the preview to resize, I'd rather have it go off screen at the normal size. */
+	width: 100%;
+}
+
+.add-new-widget {
+	cursor: pointer;
+	display: block;
+	clear: both;
+	padding: 13px 20px 10px 20px;
+	margin: 0px -20px -23px -20px;
+	text-align: right;
+	transition: all 0.2s;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.add-new-widget:hover {
+	opacity: 0.8;
+	outline: none;
+}
+.add-new-widget:active {
+	opacity: 0.6;
+}
+.add-new-widget:focus {
+	outline: none;
+}
+.add-new-widget:focus b {
+	outline: 1px dotted;
+}
+.add-new-widget:before {
+	content: "\f132";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 16px/1 'dashicons';
+	vertical-align: middle;
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 80px;
+	padding: 4px 2px 1px 2px;
+	position: relative;
+	top: -2px;
+	transition: all 0.2s;
+}
+#available-widgets .widget {
+	position: static;
+}
+/* override widgets admin page rules in wp-admin/css/wp-admin.css */
+#widgets-left #available-widgets .widget {
+	float: none !important;
+	width: auto !important;
+}
+.add-new-widget b {
+	padding-left: 8px;
+}
+
+#available-widgets {
+	margin: 0;
+	z-index: 1;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: -300px;
+	width: 300px;
+	padding-bottom: 46px;
+	overflow: auto;
+	background: #fff;
+	transition: all 0.2s;
+	box-shadow: inset -1px 0 4px rgba(0,0,0,0.3);
+}
+#available-widgets-filter {
+	position: fixed;
+	bottom: 0;
+	left: 300px;
+	right: 0;
+	background: rgba(255,255,255,0.95);
+	border-top: 1px solid rgba(0,0,0,0.1);
+	width: 300px;
+	padding: 8px 20px;
+	box-sizing: border-box;
+	z-index: 2;
+	display: none;
+}
+.adding-widget #available-widgets-filter {
+	display: block;
+}
+#available-widgets-filter input {
+	width: 100%;
+	border-radius: 30px;
+	padding: 5px 5px 2px 20px;
+}
+
+#available-widgets .widget-tpl {
+	padding: 15px 15px 15px 60px;
+	cursor: pointer;
+	border-bottom: 1px solid rgba(0,0,0,0.05);
+	position: relative;
+}
+#available-widgets .widget-tpl:hover,
+#available-widgets .widget-tpl.selected {
+	box-shadow: inset 0 1px 0 rgba(0,0,0,0.05);
+	background: rgba(0,0,0,0.05);
+}
+img.widget-icon {
+	display: none;
+}
+.widget-icon {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	height: 24px;
+	width: 24px;
+	box-sizing: border-box;
+}
+.widget-icon:before {
+	content:"\f132";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	color: #333;
+	font: normal 24px/24px 'dashicons', 'widgeticons';
+	text-align: center;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+[class*="archives"] .widget-icon:before {
+	content: "\f483";
+	top: -2px;
+}
+[class*="calendar"] .widget-icon:before {
+	content: "\f145";
+}
+[class*="categories"] .widget-icon:before {
+	content: "\f318";
+	top: -3px;
+}
+[class*="nav"] .widget-icon:before {
+	content: "\f333";
+}
+[class*="rss"] .widget-icon:before {
+	content: "\f303";
+	top: -3px;
+	font-size: 20px;
+}
+[class*="tag_cloud"] .widget-icon:before {
+	content: "\f481";
+}
+[class*="search"] .widget-icon:before {
+	content: "\f179";
+}
+[class*="text"] .widget-icon:before {
+	content: "\f480";
+}
+[class*="twitter"] .widget-icon:before {
+	top: -1px;
+	content: "\f301";
+}
+[class*="posts"] .widget-icon:before {
+	content: "\f109";
+}
+[class*="pages"] .widget-icon:before {
+	content: "\f119";
+}
+[class*="comments"] .widget-icon:before {
+	content: "\f101";
+}
+[class*="profile"] .widget-icon:before,
+[class*="grofile"] .widget-icon:before {
+	content: "\f110";
+}
+[class*="facebook"] .widget-icon:before {
+	content: "\f304";
+}
+[class*="image"] .widget-icon:before {
+	content: "\f128";
+}
+[class*="meta"] .widget-icon:before {
+	content: "\f120";
+}
+#available-widgets .widget-top,
+#available-widgets .widget-top:hover {
+	border: none;
+	box-shadow: none;
+	background: transparent;
+}
+#available-widgets .widget-title h4 {
+	font-size: 14px;
+	padding: 10px 0 5px 0;
+}
+#available-widgets .widget .widget-description {
+	padding: 0;
+	color: #777;
+}
+
+#customize-preview {
+	transition: all 0.2s;
+}
+
+body.adding-widget {}
+body.adding-widget .add-new-widget {
+	color: rgb( 173, 6, 15 );
+}
+body.adding-widget .add-new-widget:before {
+	-webkit-transform: rotate(45deg);
+	border-color: rgba( 173, 6, 15, 1);
+	color: rgb( 173, 6, 15 );
+}
+body.adding-widget #available-widgets {
+	left: 0;
+}
+body.adding-widget .wp-full-overlay-main {
+	left: 300px;
+}
+body.adding-widget #customize-preview {
+	opacity: 0.4;
+}

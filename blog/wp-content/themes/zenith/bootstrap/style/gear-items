@@ -1,0 +1,86 @@
+.portfolio-items a:hover .portfolio-overlay {
+	opacity: .95;
+	filter: alpha(opacity=95);
+	left: 0 }
+
+.portfolio-items h4 {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: 600;
+	text-align: center;
+	top: 54%;
+	border-top: 1px solid #fff;
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	padding-top: 15px;
+	font-weight: bold;
+	position: absolute }
+
+.portfolio-items .mix { opacity:0;display: none }
+
+.portfolio-item-details {
+	background-color: #f1f1f1;
+	padding: 15px;
+	margin-bottom: 50px;
+	display: none }
+
+	.portfolio-item-details .close-portfolio { text-align: right }
+
+		.portfolio-item-details .close-portfolio span {
+			border: 2px solid #292929;
+			color: #292929;
+			display: block;
+			font-family: "Tahoma",Helvetica,sans-serif;
+			font-size: 22px;
+			font-weight: bold;
+			height: 25px;
+			line-height: 1.1em;
+			padding: 5px;
+			text-align: center;
+			text-decoration: none;
+			text-indent: 1px;
+			text-transform: uppercase;
+			width: 25px;
+			float: right;
+			-webkit-transition: all .3s ease-in-out;
+			-moz-transition: all .3s ease-in-out;
+			-o-transition: all .3s ease-in-out;
+			transition: all .3s ease-in-out;
+			cursor: pointer;
+			text-indent: -99999px;
+			background: url("../images/css/cls.png") no-repeat center center }
+
+			.portfolio-item-details .close-portfolio span:hover { opacity: .5 }
+
+	.portfolio-item-details h5 { margin-top:10px;margin-bottom: 0 }
+
+	.portfolio-item-details article { margin-top: 15px }
+
+	.portfolio-item-details .website h5 { line-height:20px;margin-top: 15px }
+
+	.portfolio-item-details .website a {
+		font-size: 13px;
+		line-height: 15px;
+		font-weight: bold }
+
+	.portfolio-item-details .social-icons { margin: 40px 0 }
+
+	.portfolio-item-details .submenu { text-align: left }
+
+		.portfolio-item-details .submenu span {
+			font-family: 'Open Sans',sans-serif;
+			font-size: 11px;
+			font-weight: bold;
+			text-transform: uppercase;
+			line-height: 28px;
+			letter-spacing: 1px;
+			color: #fff;
+			padding: 3px 8px;
+			margin: 0;
+			position: relative;
+			background-color: #bbb }
+
+			.portfolio-item-details .submenu span:hover { text-decoration: none }

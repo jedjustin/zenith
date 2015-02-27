@@ -1,0 +1,217 @@
+[06-Jan-2014 22:35:46 UTC] PHP Parse error:  syntax error, unexpected '>' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 12
+[06-Jan-2014 22:44:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 23
+[06-Jan-2014 23:08:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 23
+[06-Jan-2014 23:09:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 23
+[06-Jan-2014 23:19:02 UTC] PHP Fatal error:  Call to undefined function get_content() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 23
+[06-Jan-2014 23:19:03 UTC] PHP Fatal error:  Call to undefined function get_content() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 23
+[07-Jan-2014 13:58:09 UTC] PHP Fatal error:  Call to undefined function get_index() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 1
+[08-Jan-2014 11:43:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 23
+[08-Jan-2014 11:44:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 20
+[08-Jan-2014 11:47:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 20
+[08-Jan-2014 11:48:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 21
+[08-Jan-2014 11:48:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 21
+[08-Jan-2014 11:49:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 18
+[08-Jan-2014 11:54:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/single.php on line 10
+[08-Jan-2014 13:28:11 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 24
+[08-Jan-2014 13:28:12 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 24
+[08-Jan-2014 13:33:22 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 24
+[08-Jan-2014 13:35:08 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:35:57 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 30
+[08-Jan-2014 13:40:58 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:42:42 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:43:25 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:43:44 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:44:51 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:45:08 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 13:46:09 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 20
+[08-Jan-2014 14:36:58 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[08-Jan-2014 14:40:04 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[08-Jan-2014 14:40:37 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[08-Jan-2014 14:40:48 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[08-Jan-2014 14:40:59 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[08-Jan-2014 14:41:09 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[11-Jan-2014 08:40:43 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[12-Jan-2014 03:05:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:05:54 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:05:59 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[12-Jan-2014 03:06:03 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:06 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:16 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:16 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:24 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:38 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[12-Jan-2014 03:06:39 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:06:45 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 03:44:24 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 07:42:42 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 10:20:45 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[12-Jan-2014 13:09:09 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[13-Jan-2014 08:02:46 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[14-Jan-2014 05:11:29 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[14-Jan-2014 05:11:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[14-Jan-2014 05:11:31 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[14-Jan-2014 05:11:39 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[14-Jan-2014 06:49:33 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category-lighting.php on line 35
+[14-Jan-2014 08:16:49 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[14-Jan-2014 08:52:42 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[14-Jan-2014 10:17:06 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 07:24:37 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 07:25:04 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 07:25:15 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 07:25:26 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 07:25:36 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/category.php on line 35
+[15-Jan-2014 09:24:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:26:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:28:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:28:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:29:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:32:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:32:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:32:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:33:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:34:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:35:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:35:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:36:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:37:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:38:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:38:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:38:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:38:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:39:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:39:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:39:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:39:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:45:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:46:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:46:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 42
+[15-Jan-2014 09:46:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 42
+[15-Jan-2014 09:46:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 42
+[15-Jan-2014 09:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 42
+[15-Jan-2014 09:52:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:52:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:53:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:53:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:54:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/header.php on line 3
+[15-Jan-2014 09:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:58:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:58:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:58:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:59:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:59:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 09:59:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:04:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:16:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:16:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:16:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:16:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:16:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:21:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:21:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:21:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:26:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:32:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:32:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:33:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:33:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:33:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:33:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:33:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 43
+[15-Jan-2014 10:52:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:32 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:52:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:28 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:53:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:54:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:54:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:54:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:54:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:54:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:55:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:56:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:57:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:57:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 10:57:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/footer.php on line 3
+[15-Jan-2014 16:21:31 UTC] PHP Fatal error:  Call to undefined method JSON_API_Hello_Controller::error() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/json-api/singletons/api.php on line 59
+[15-Jan-2014 16:27:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/json-api/controllers/hello.php on line 9
+[15-Jan-2014 16:27:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/json-api/controllers/hello.php on line 9
+[15-Jan-2014 16:28:26 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/json-api/controllers/hello.php on line 19
+[15-Jan-2014 19:27:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:27:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:27:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:27:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:28:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:28:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 22
+[15-Jan-2014 19:29:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 21
+[15-Jan-2014 19:29:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 21
+[15-Jan-2014 19:29:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 21
+[15-Jan-2014 19:29:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 21
+[15-Jan-2014 21:33:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:33:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:33:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:33:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:55:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:58:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 21:58:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 26
+[15-Jan-2014 22:45:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/functions.php on line 71
+[15-Jan-2014 22:45:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/functions.php on line 71
+[15-Jan-2014 22:46:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/functions.php on line 71
+[15-Jan-2014 23:15:12 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 29
+[15-Jan-2014 23:15:12 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 29
+[15-Jan-2014 23:34:03 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 18
+[15-Jan-2014 23:34:03 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 18
+[15-Jan-2014 23:34:19 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 18
+[15-Jan-2014 23:34:19 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/themes/zenith/index.php on line 18
+[16-Jan-2014 07:26:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/kebo-twitter-feed/inc/get_tweets.php on line 255
+[30-Jan-2014 21:28:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/rameyrob/public_html/zenithrecordingstudios.com/blog/wp-content/plugins/kebo-twitter-feed/inc/get_tweets.php on line 255
